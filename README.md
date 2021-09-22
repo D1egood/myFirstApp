@@ -1,6 +1,7 @@
 # README
 
-This is my first app and where i'm gonna be practicing over the time
+This is my first app and where i'm gonna be practicing over the time...
+i will be working mostly with ruby on rails!
 
 Things you may want to cover:
 
